@@ -13,7 +13,7 @@
 
 ## 使用流程
 1. roscore首先打开ros环境。
-2. coppeliasim中操作无人机。
+2. coppeliasim中打开项目文件`M100_Underground.ttt`操作无人机。
 <img src="2.gif"  width = "1280" >
 
 ## 数据集
