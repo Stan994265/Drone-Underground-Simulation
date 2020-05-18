@@ -17,7 +17,9 @@
 <img src="2.gif"  width = "1280" >
 
 ## 数据集
-- 使用该仿真程序得到的数据集如下图所示：<img src="bag_show.png" > 
+- 使用该仿真程序得到的数据集如下图所示：</br>
+<img src="bag_show.png" width = "1280"> 
+
 - 传感器参数、无人机模拟参数详见代码lua脚本。
 - 使用如下代码可录制数据集`rosbag record -a`
 - 数据回放`rosbag play *****`，下图为录制的示例数据包回放。该数据包可在该链接下载：https://pan.baidu.com/s/1eq25CfT7__1mr8R-bCgLTA 
