@@ -1,7 +1,7 @@
 # Drone-Underground-Simulation
 ## 介绍
 - 本项目使用了多旋翼无人机（DJI-M100原型机）进行仿真。
-- 使用coppeliasim+ROS搭建，coppeliasim中带有无人机模型与传感器（IMU、velodyne16、camera）。
+- 使用coppeliasim+ROS搭建，带有无人机模型与传感器（IMU、velodyne16、camera）。
 <img src="0.gif"  width = "1280" >
 
 
