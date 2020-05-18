@@ -1,12 +1,10 @@
 # Drone-Underground-Simulation
-<br /> <br />
 ## 介绍
 - 本项目使用了多旋翼无人机（DJI-M100原型机）进行仿真。
 - 使用coppeliasim+ROS搭建，vrep中带有无人机模型与传感器（IMU、velodyne16、camera）。
 <img src="0.gif"  width = "1280" >
 
 
-<br /> <br />
 ## 系统配置
 - ubuntu16.0.4
 - ros kinetic
@@ -28,7 +26,7 @@
 - 传感器参数及频率可在lua脚本中设置。
 <img src="1.gif"  width = "1280" > 
 
-
+<br /> <br />
 ## 引用
  - 若您使用该仿真环境或数据集请引用：
  ```
