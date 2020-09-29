@@ -1,7 +1,7 @@
 # Drone-Underground-Simulation
 ## 介绍
 - 本项目使用了多旋翼无人机（DJI-M100原型机）进行仿真。
-- 使用coppeliasim+ROS搭建，带有无人机模型与传感器（IMU、velodyne16、camera）。
+- 使用coppeliasim+ROS搭建，带有无人机模型与传感器（IMU、velodyne16、camera、kinect）。
 <img src="0.gif"  width = "1280" >
 
 
@@ -13,7 +13,7 @@
 
 ## 使用流程
 1. roscore首先打开ros环境。
-2. coppeliasim中打开项目文件`M100_Underground.ttt`操作无人机。
+2. coppeliasim中打开项目文件`M100_Underground_ros.ttt`（File文件夹中）操作无人机。
 <img src="2.gif"  width = "1280" >
 
 ## 数据集
@@ -32,9 +32,7 @@
 ## 引用
  - 若您使用该仿真环境或数据集请引用：
  ```
- 
+ 《煤矿井下飞行机器人建模与仿真》
  ```
- ## Todo
- -  完整程序将在文章录用后上传。
  ## 联系方式
  王岩 <br />1245994265@qq.com
